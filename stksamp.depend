@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1523029547 source:/home/cincin/stksamp/main.cpp
+	<iostream>
+	<stk/FormSwep.h>
+	<stk/FileWrite.h>
+	<stk/FileRead.h>
+	<stk/Function.h>
+	<stk/Sampler.h>
+	<stk/ADSR.h>
+	<stk/Stk.h>
+	<stk/FileLoop.h>
+	<stk/PitShift.h>
+	<fftw3.h>
+	<fstream>
+	<string>
+	<sstream>
+	<strings.h>
+	<string.h>
+	<strstream>
+	<cstdlib>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<cstdlib>
+	<handleust.h>
+
+1502894493 source:/home/cincin/stksamp/stretch.h
+	<stk/FileRead.h>
+
+1502917634 source:/home/cincin/stksamp/stretch.cpp
+	"stretch.h"
+
+1502915408 /home/cincin/stksamp/stretch.h
+	<stk/FileRead.h>
+
